@@ -90,7 +90,7 @@
     "usehooks-ts": "^3.1.0",
     "vaul": "^1.0.0",
     "viem": "^2.23.3",
-    "wagmi": "^2.14.16",
+    "wagmi": "^3.0.0",
     "yaml-loader": "^0.8.0"
   },
   "devDependencies": {
@@ -118,7 +118,7 @@
     "chromatic": "10.9.6",
     "decompress": "^4.2.1",
     "eslint": "^8.45.0",
-    "eslint-config-next": "^14.2.2",
+    "eslint-config-next": "^15.0.0",
     "eslint-config-prettier": "9.1.0",
     "eslint-plugin-simple-import-sort": "^10.0.0",
     "eslint-plugin-storybook": "0.8.0",
